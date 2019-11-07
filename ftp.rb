@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
 #
-#Copyrigth (C) 2014-2015 - Benny Ojeda
+# Copyrigth (C) 2014 - Benny Ojeda
 # Description: FTP Client
 # Version: 1.0
-#
+# License: GPLv3
 
 require 'net/ftp'
 require 'socket'
